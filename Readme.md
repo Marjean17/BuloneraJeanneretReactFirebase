@@ -1,6 +1,6 @@
 # Bulonera Jeanneret
 
-El presente proyecto implica un E-commerce para una bolunera y fue realizado a modo de trabajo final en el marco del curso de React dictado por el profesor Lucas Cravero desde la comisión 34835 de la plataforma educativa Coderhouse
+El presente proyecto implica un E-commerce para una bolunera y fue realizado a modo de trabajo final en el marco del curso de React de la comisión 34835 de la plataforma educativa Coderhouse
 
 ## Listado de tecnologias usadas
 
